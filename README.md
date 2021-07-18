@@ -1,4 +1,4 @@
-[![Header](https://github.com/mursalin-abedin/mursalin.abedin/blob/master/gitHub%20banner.jpg "Header")]
+![Header](https://github.com/mursalin-abedin/mursalin.abedin/blob/master/gitHub%20banner.jpg "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
