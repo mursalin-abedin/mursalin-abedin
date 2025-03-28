@@ -1,7 +1,7 @@
 
 # Hi, I'm Murs.
 
-I'm a Validation Engineer specializing in telematics system development and currently working on vehicle communication applications. Based in Columbus, OH, I work as a Telematics System Engineer at Honda R&D for [Echelle Resources](#job)
+I'm a Validation Engineer specializing in telematics system development and currently working on vehicle communication applications. Based in Columbus, OH, I work as a Telematics System Engineer at Honda R&D for [Echelle Resources](https://echelleresources.com/)
 
 ## Skills
 
