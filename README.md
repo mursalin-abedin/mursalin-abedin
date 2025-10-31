@@ -17,8 +17,8 @@ I'm a Validation Engineer specializing in telematics system development and curr
 
 ### Full Stack Developer
 
-• Familiar with Git Workflow, Docker and CI/CD  
-• Experience with MongoDB, MySQL, PostgreSQL databse setup and management  
+• Familiar with Git Workflow,  
+• Experience with MongoDB, MySQL, and PostgreSQL database setup and management  
 • Building RESTful APIs and GraphQL based query systems
 
 ### Tools
@@ -32,8 +32,8 @@ I'm a Validation Engineer specializing in telematics system development and curr
 | Skill Category | Specific Skills |
 | --- | --- |
 | Software Development & Tools | Version Control & Project Management:<br><br>Git, JIRA, Confluence<br><br>Programming Languages:<br><br>Python, Java, VBA<br><br>Agile Development & CI/CD:<br><br>Sprint Planning, Tracking, Continuous Feature Delivery,|
-| Data Engineering & Analytics | Data Lakehouse:<br><br>Databricks, ETL Pipeline Development<br><br>Data Analytics:<br><br>SQL, Python, DAX, Alteryx, Excel, Selenium<br><br>Statistical & Machine Learning Tools:<br><br>Matplotlib, Seaborn, NumPy, Pandas, Jupyter |
-| Dashboard & Reporting | Visualization & Design:<br><br>Power BI, Excel, Tableau, PowerPoint, Canva, Figma, DaVinci Resolve |
+| Data Engineering & Analytics | Data Lakehouse:<br><br>Databricks, ETL Pipeline Development<br><br>Data Analytics:<br><br>SQL, Python, DAX, Excel, Selenium<br><br>Statistical & Machine Learning Tools:<br><br>Matplotlib, Seaborn, NumPy, Pandas, Jupyter |
+| Dashboard & Reporting | Visualization & Design:<br><br>Power BI, Excel, PowerPoint, Canva, DaVinci Resolve |
 | Marketing, Quality, & Defect Analysis | Quality & Feature Analysis:<br><br>Data Mining, Anomaly Detection, 5Why Analysis, Fault Tree Analysis (FTA), Failure Mode & Effect Analysis (FMEA)<br><br>Connected Vehicle Analytics:<br><br>Descriptive, Inferential & Predictive Analytics, Feature Usage Monitoring |
 | Automotive & Embedded Systems | Bus Protocols & Communication:<br><br>CAN, MOST, UART, SPI, I2C, I2S, MLB, TDM<br><br>DSP & Audio Codec Development:<br><br>DiRaNa3, Hexagon, SHARC, Griffin, WMA, MP3, AMRWB<br><br>Multimedia & Audio Processing:<br><br>GStreamer, OpenMax, SBC, AECNR, Nuance VR, A2DP |
 
