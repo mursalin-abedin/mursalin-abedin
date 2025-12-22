@@ -1,101 +1,117 @@
+# Hi, I’m Mursalin (Murs) Abedin 👋
 
-# Hi, I'm Murs.
+**Data Analyst | SQL + Python | AWS | Power BI | Data QA (developer lens)**  
+Columbus, OH | abedin.mursalin@gmail.com | 614-377-4675  
+LinkedIn: https://www.linkedin.com/in/mursalin-abedin-/  
 
-I'm a Validation Engineer specializing in telematics system development and currently working on vehicle communication applications. Based in Columbus, OH, I work as a Telematics System Engineer at Honda R&D for [Echelle Resources](https://echelleresources.com/)
+I started in hands-on validation and support engineering, where accuracy mattered because results shipped to real customers. That work trained me to think like a developer, test like a QA, and communicate like an analyst.
 
-## Skills
+Now I’m focused on **Data Analytics + Data QA**: building reliable reporting, validating pipelines, and turning complex datasets into clear insights that business and engineering teams can act on.
 
-### System Engineer & Data Analyst
+---
 
-• Building Responsive UI/UX Design for Web and Mobile. Creating Brand Strategy and Design Systems  
-• Wireframing User Flows and delivering High-fidelity Prototypes for Developer Hand-off
+## My Story: Telematics Support Engineer → Data Analytics
 
-### Project Management
+In validation/support roles, I worked close to software releases and system behavior. What pulled me in most wasn’t just finding bugs, but proving **why** something happened using logs, data checks, and repeatable test evidence.
 
-• Proficient in HTML, CSS & JavaScript with 3yrs experience in React, Node.js & Express.  
-• Familiar with User Testing & Conversion Optimization Tools like Optimizely & VWO.
+That same mindset is exactly what I bring to analytics today:
+- Validate the data first (SQL checks, reconciliation, test queries)
+- Understand how the pipeline works (inputs, transformations, outputs)
+- Build reporting that is accurate and trusted (Power BI + clean definitions)
+- Document everything so others can repeat it (test cases, SOPs, evidence)
 
-### Full Stack Developer
+---
 
-• Familiar with Git Workflow,  
-• Experience with MongoDB, MySQL, and PostgreSQL database setup and management  
-• Building RESTful APIs and GraphQL based query systems
+## Core Strengths
 
-### Tools
+- **Advanced SQL** (testing, validation queries, reconciliation)
+- **Python analytics** (automation, data cleanup, repeatable checks)
+- **ETL / pipeline thinking** (source-to-report troubleshooting)
+- **Power BI + DAX** (dashboards, KPI tracking, stakeholder reporting)
+- **Documentation and traceability** (requirements, test evidence, release notes)
+- Tools: **AWS (S3), Git, Jira, Confluence, Swagger/Postman, JSON/XML**
 
-• Data Analytics : Python, Scripts Writting , SQL, Excel, Pandas,PowerBI & TAbleau  
-• & Analytics Plarforms like HubSpot, Klaviyo , Mailchimp , Google Analytics & Hotjar.  
-• Project Management through Trello , Asana , Slack , Jira & Confluence.
+---
 
-### Tools
+## Featured Projects (Portfolio)
 
-| Skill Category | Specific Skills |
-| --- | --- |
-| Software Development & Tools | Version Control & Project Management:<br><br>Git, JIRA, Confluence<br><br>Programming Languages:<br><br>Python, Java, VBA<br><br>Agile Development & CI/CD:<br><br>Sprint Planning, Tracking, Continuous Feature Delivery,|
-| Data Engineering & Analytics | Data Lakehouse:<br><br>Databricks, ETL Pipeline Development<br><br>Data Analytics:<br><br>SQL, Python, DAX, Excel, Selenium<br><br>Statistical & Machine Learning Tools:<br><br>Matplotlib, Seaborn, NumPy, Pandas, Jupyter |
-| Dashboard & Reporting | Visualization & Design:<br><br>Power BI, Excel, PowerPoint, Canva, DaVinci Resolve |
-| Marketing, Quality, & Defect Analysis | Quality & Feature Analysis:<br><br>Data Mining, Anomaly Detection, 5Why Analysis, Fault Tree Analysis (FTA), Failure Mode & Effect Analysis (FMEA)<br><br>Connected Vehicle Analytics:<br><br>Descriptive, Inferential & Predictive Analytics, Feature Usage Monitoring |
-| Automotive & Embedded Systems | Bus Protocols & Communication:<br><br>CAN, MOST, UART, SPI, I2C, I2S, MLB, TDM<br><br>DSP & Audio Codec Development:<br><br>DiRaNa3, Hexagon, SHARC, Griffin, WMA, MP3, AMRWB<br><br>Multimedia & Audio Processing:<br><br>GStreamer, OpenMax, SBC, AECNR, Nuance VR, A2DP |
+### 1) Telematics Test Case Creation (Concept)
+Repo: https://github.com/mursalin-abedin/Telematics-Test-Case-Creation-concept-  
+**What it shows:**
+- Structured test case design and documentation
+- Clear requirements-to-test mapping and repeatability
+- QA mindset that translates well to **data testing and validation**
 
+**Skills demonstrated:** Testing strategy, documentation, traceability, validation approach
 
+---
 
-## Experience
+### 2) Telematics API Functionality Check
+Repo: https://github.com/mursalin-abedin/Telematics-API-functionlity-Check  
+**What it shows:**
+- API validation and end-to-end testing approach
+- Working with payloads (**JSON/XML**) and verifying responses
+- A practical “developer lens” for troubleshooting and validating outputs
 
-### Echelle Resources
+**Skills demonstrated:** API testing, troubleshooting, QA execution, structured validation
 
-Validation Engineer
+---
 
-2019 - Present
+### 3) Automotive Issue Analytics (Power BI)
+Repo: https://github.com/mursalin-abedin/Automotive-Issue-Analytics-Power-BI-  
+**What it shows:**
+- Turning issue/defect data into dashboards stakeholders can use
+- Trend analysis, defect patterns, KPI monitoring
+- Storytelling through visuals and metrics
 
-At Echelle Resources, I lead the design process for all projects. I work closely with the development team to ensure that the vision is carried through to the final product. I also work with clients to ensure that their needs are met and that they are happy with the final product.
+**Skills demonstrated:** Power BI, DAX, analytics reporting, stakeholder-ready dashboards
 
-### Echelle Resources
+---
 
-UI/UX Designer
+## New Section: How These Projects Map to Data Analyst + Data QA Roles
 
-2017 - 2019
+Recruiters often ask how engineering validation becomes analytics. Here’s the bridge:
 
-Check Resume.
+- **Test case creation → Data QA:**  
+  I treat datasets like products. I define expected outcomes, write validation checks, and document evidence.
 
-### J.P Morgan Chase
+- **API validation → Data pipeline testing:**  
+  APIs are data sources. I validate inputs/outputs and confirm consistency across systems, just like ETL verification.
 
-Associate Banker
+- **Power BI issue analytics → Business reporting:**  
+  I transform complex operational data into dashboards that help teams prioritize work and make decisions.
 
-2017 - 2019
+This is why I’m a strong fit for roles that require **SQL testing, ETL awareness, documentation, and stakeholder collaboration.**
 
-Check Resume.
+---
 
 ## Education
 
-### Franklin University
+**Tech Elevator** (Aug 2022 – May 2024)  
+Full Stack Software Development | **GPA: 4.0**  
+Focus: **Python, SQL, Java, JavaScript, REST APIs, Git**
 
-Bachelor of Science in Accounting Information System
+**Franklin University** (Aug 2019 – May 2022)  
+B.S. Accounting Information System & Business Administration | **GPA: 3.8**  
+Focus: analytics mindset, business reporting, data-driven decision making
 
-2013 - 2017
+---
 
-## Recent Work
+## What I’m looking for
 
-[![Project 1](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](/link-to-project)
+Roles where I can combine analytics + QA discipline:
+- **Data Analyst / Data QA Analyst**
+- **SQL + ETL Testing**
+- **BI Analyst (Power BI)**
+- **Data Solutions Analyst**
+- **Analytics Engineer (entry to mid level)**
 
-### Acceptance Testing on LGE Telematics Unit
+---
 
-Will be Updated  
-[Link to Project](/link-to-project)
+## Contact
 
-[![Project 2](https://plus.unsplash.com/premium_photo-1685086785077-ff65bf749544?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](/link-to-project)
+If you’d like to talk about my work or see additional examples (SQL validation scripts, Power BI dashboards, or API test scenarios), feel free to reach out.
 
-### Enhancement and Maintenance ITUT-P1104
-
-Will be Update 
-[Link to Project](/link-to-project)
-
-[![Project 3](https://images.unsplash.com/photo-1618861859575-b6e43d10922a?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](/link-to-project)
-
-### Infotainment Functionality Assessment and HMI Validation
-
-Will be Updated 
-[Link to Project](/link-to-project)
-
-## Get in Touch
-
-I'm currently open to new opportunities. If you have any questions or would like to collaborate, feel free to reach out at [mursalin.abedin@gmail.com](mailto:mursalin.abedin@gmail.com).
+**Email:** abedin.mursalin@gmail.com  
+**Phone:** 614-377-4675  
+**LinkedIn:** https://www.linkedin.com/in/mursalin-abedin-/  
