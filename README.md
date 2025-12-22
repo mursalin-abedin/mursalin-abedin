@@ -10,9 +10,9 @@ Now I’m focused on **Data Analytics + Data QA**: building reliable reporting, 
 
 ---
 
-## My Story: Telematics Support Engineer → Data Analytics
+## My Story: Telematics Support Engineer, Data Analytics, Data Validation Engineer 
 
-In validation/support roles, I worked close to software releases and system behavior. What pulled me in most wasn’t just finding bugs, but proving **why** something happened using logs, data checks, and repeatable test evidence.
+In validation/support roles, I worked close with software releases and system behavior. What pulled me in most wasn’t just finding bugs, but proving **why** something happened using logs, data checks, and repeatable test evidence.
 
 That same mindset is exactly what I bring to analytics today:
 - Validate the data first (SQL checks, reconciliation, test queries)
@@ -99,12 +99,14 @@ Focus: analytics mindset, business reporting, data-driven decision making
 
 ## What I’m looking for
 
-Roles where I can combine analytics + QA discipline:
+Roles where I can combine **Validation Engineering** with **Data Analysis** and strong **QA discipline**, including:
+- **Validation Engineer / QA Engineer**
 - **Data Analyst / Data QA Analyst**
 - **SQL + ETL Testing**
 - **BI Analyst (Power BI)**
 - **Data Solutions Analyst**
 - **Analytics Engineer (entry to mid level)**
+- 
 
 ---
 
