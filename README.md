@@ -1,4 +1,4 @@
-# Hi, I’m Mursalin (Murs) Abedin 👋
+# Hi, I’m Mursalin (Murs) Abedin
 
 **Data Analyst | SQL + Python | AWS | Power BI | Data QA (developer lens)**  
 Columbus, OH | abedin.mursalin@gmail.com | 614-377-4675  
@@ -106,7 +106,6 @@ Roles where I can combine **Validation Engineering** with **Data Analysis** and 
 - **BI Analyst (Power BI)**
 - **Data Solutions Analyst**
 - **Analytics Engineer (entry to mid level)**
-- 
 
 ---
 
