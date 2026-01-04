@@ -1,10 +1,10 @@
 # Hi, I’m Mursalin (Murs) Abedin
 
-**Data Analyst | SQL + Python | AWS | Power BI | Data QA (developer lens)**  
+**Data Analyst | SQL + Python | AWS | Power BI | Data QA (developer lens) | Test Engineer |Software Validation| **  
 Columbus, OH | abedin.mursalin@gmail.com | 614-377-4675  
 LinkedIn: https://www.linkedin.com/in/mursalin-abedin-/  
 
-I started in hands-on validation and support engineering, where accuracy mattered because results shipped to real customers. That work trained me to think like a developer, test like a QA, and communicate like an analyst.
+I started in hands-on validation and support engineering, where accuracy mattered because results were shipped to real customers. That work trained me to think like a developer, test like a QA, and communicate like an analyst.
 
 Now I’m focused on **Data Analytics + Data QA**: building reliable reporting, validating pipelines, and turning complex datasets into clear insights that business and engineering teams can act on.
 
