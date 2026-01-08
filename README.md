@@ -60,7 +60,7 @@ Repo: https://github.com/mursalin-abedin/Telematics-API-functionlity-Check
 ### 3) Automotive Issue Analytics (Power BI)
 Repo: https://github.com/mursalin-abedin/Automotive-Issue-Analytics-Power-BI-  
 **What it shows:**
-- Turning issue/defect data into dashboards stakeholders can use
+- Turning issue/defect data into dashboards that stakeholders can use
 - Trend analysis, defect patterns, KPI monitoring
 - Storytelling through visuals and metrics
 
@@ -68,22 +68,6 @@ Repo: https://github.com/mursalin-abedin/Automotive-Issue-Analytics-Power-BI-
 
 ---
 
-## New Section: How These Projects Map to Data Analyst + Data QA Roles
-
-Recruiters often ask how engineering validation becomes analytics. Here’s the bridge:
-
-- **Test case creation → Data QA:**  
-  I treat datasets like products. I define expected outcomes, write validation checks, and document evidence.
-
-- **API validation → Data pipeline testing:**  
-  APIs are data sources. I validate inputs/outputs and confirm consistency across systems, just like ETL verification.
-
-- **Power BI issue analytics → Business reporting:**  
-  I transform complex operational data into dashboards that help teams prioritize work and make decisions.
-
-This is why I’m a strong fit for roles that require **SQL testing, ETL awareness, documentation, and stakeholder collaboration.**
-
----
 
 ## Education
 
@@ -94,6 +78,7 @@ Focus: **Python, SQL, Java, JavaScript, REST APIs, Git**
 **Franklin University** (Aug 2019 – May 2022)  
 B.S. Accounting Information System & Business Administration | **GPA: 3.8**  
 Focus: analytics mindset, business reporting, data-driven decision making
+
 
 ---
 
